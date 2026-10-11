@@ -1,0 +1,10 @@
+{
+  "name": "Birdsong — Field Kit",
+  "short_name": "Birdsong",
+  "description": "Offline-ready birding companion powered by open YAMNet",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f1e8",
+  "theme_color": "#10251e"
+}
